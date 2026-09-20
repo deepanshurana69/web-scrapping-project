@@ -48,17 +48,6 @@ Task1_Web_Scraping/
 └── output/
 
 
-How to Run
-
-From the project root:
-
-python Task1_Web_Scraping/scrape_books.py
-
-The program collects the book information and saves the resulting dataset as:
-
-Web_Scraping/data/books.csv
-
-Key Learning Outcomes
 
 Understanding HTML structure
 Working with HTTP requests
